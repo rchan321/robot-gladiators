@@ -24,7 +24,7 @@ var enemyHealth = 50;
 var enemyAttack = 12;
 
 var fight = function(enemyName) {
-  ... // fight function statements
+  
 
 
     // Alert players that they are starting the round
